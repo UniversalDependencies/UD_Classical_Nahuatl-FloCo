@@ -28,6 +28,7 @@
 Data available since: UD v2.12
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: spoken fiction grammar-examples nonfiction
 Lemmas: manual native
 UPOS: manual native
